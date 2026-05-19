@@ -1,3 +1,14 @@
+## 📚 Learning Section
+
+This project helped me learn:
+
+- How to use APIs in JavaScript
+- How to fetch data using fetch()
+- How to handle JSON responses
+- How to connect HTML, CSS, and JavaScript
+- How to use Git and GitHub
+- How to deploy a project on GitHub
+
 # Weather App using OpenWeatherMap API
 A weather app made using OpenWeatherMap API in Vanilla JavaScript.
 
